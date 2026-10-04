@@ -1,0 +1,9 @@
+,Finding
+1,Fraud is 0.58% of transactions (1 in 172); accuracy is not a valid metric.
+2,Median fraud amount is $397 vs $47 for legitimate.
+3,Highest-risk category is shopping_net (1.76% fraud rate).
+4,Fraud rate peaks at hour 22:00; night hours (10pm-4am) hold 85% of all fraud.
+5,Most-targeted age group: 55-64 (0.77% fraud rate).
+6,A compromised card sees a median of 10 fraud transactions within 1.9 days.
+7,Fraud transactions are 10.1x the customer's usual spend (legitimate: 1.0x).
+8,Median time since previous card use: 1.4h for fraud vs 4.6h for legitimate.

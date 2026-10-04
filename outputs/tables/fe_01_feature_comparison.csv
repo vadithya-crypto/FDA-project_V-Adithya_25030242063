@@ -1,0 +1,11 @@
+,Legitimate (median),Fraud (median)
+hour,14.0,22.0
+is_night,0.0,1.0
+is_weekend,0.0,0.0
+age,43.0,47.0
+distance_km,78.23301215383945,77.93195445765167
+log_amt,3.8770173962293306,5.9852029178920425
+hours_since_prev,4.623611111111111,1.403888888888889
+amt_vs_card_avg,0.6648672752769798,5.163650765527716
+txn_count_1h,0.0,0.0
+txn_count_24h,3.0,4.0

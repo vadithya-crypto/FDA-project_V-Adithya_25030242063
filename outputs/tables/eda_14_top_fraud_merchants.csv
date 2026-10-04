@@ -1,0 +1,16 @@
+merchant,category,transactions,frauds,fraud_rate_pct
+Rau and Sons,grocery_pos,2490,49,1.967871485943775
+Kozey-Boehm,shopping_net,1866,48,2.572347266881029
+Doyle Ltd,grocery_pos,2558,47,1.8373729476153244
+Vandervort-Funk,grocery_pos,2474,47,1.8997574777687956
+Cormier LLC,shopping_net,1959,45,2.2970903522205206
+Padberg-Welch,grocery_pos,2424,44,1.8151815181518154
+Terry-Huel,shopping_net,1996,43,2.154308617234469
+Koepp-Witting,grocery_pos,2437,42,1.7234304472712352
+Jast Ltd,shopping_net,1953,42,2.1505376344086025
+Goyette Inc,shopping_net,1943,42,2.1616057642820383
+Kiehn-Emmerich,grocery_pos,2497,41,1.6419703644373247
+McDermott-Weimann,grocery_pos,2524,41,1.624405705229794
+"Schmeler, Bashirian and Price",shopping_net,1968,41,2.083333333333333
+Kerluke-Abshire,shopping_net,1838,41,2.2306855277475517
+Gleason-Macejkovic,shopping_net,2033,40,1.9675356615838662

@@ -1,0 +1,6 @@
+cluster,transactions,frauds,median_amt,median_amt_vs_avg,pct_night,median_hours_since_prev,median_txn_24h,median_age,top_category,pct_of_transactions,fraud_rate_pct,share_of_all_fraud_pct
+0,264188,4241,83.28,1.21,27.1,1.64,6.0,37.0,home,20.37,1.61,56.5
+3,311409,1560,79.05,1.15,31.37,6.71,3.0,47.0,gas_transport,24.02,0.5,20.78
+2,187218,555,7.04,0.11,29.93,6.78,2.0,64.0,shopping_pos,14.44,0.3,7.39
+4,276156,813,7.86,0.12,18.7,1.94,5.0,35.0,shopping_pos,21.3,0.29,10.83
+1,257704,337,49.86,0.68,10.84,14.98,1.0,41.0,home,19.87,0.13,4.49

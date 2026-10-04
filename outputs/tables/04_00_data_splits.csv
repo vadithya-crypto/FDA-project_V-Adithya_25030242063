@@ -1,0 +1,5 @@
+,period,rows,frauds,fraud_rate_pct
+Fit (experiments),2019-01-01 to 2020-03-23,1076870,6272,0.582
+Validation (choices),2020-03-23 to 2020-06-21,219805,1234,0.561
+Full train (final models),2019-01-01 to 2020-06-21,1296675,7506,0.579
+Test (final evaluation),2020-06-21 to 2020-12-31,555719,2145,0.386

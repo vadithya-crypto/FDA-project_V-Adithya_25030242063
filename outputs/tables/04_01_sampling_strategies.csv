@@ -1,0 +1,15 @@
+strategy,model,train_rows,train_fraud_pct,train_seconds,PR_AUC,ROC_AUC,threshold,precision,recall,F1,frauds_caught,frauds_missed,false_alarms
+No balancing,Logistic Regression,1076870,0.58,3.9,0.4861,0.931,0.2349,0.6364,0.4311,0.514,532,702,304
+No balancing,LightGBM,1076870,0.58,10.0,0.5332,0.9293,0.4717,0.6009,0.7771,0.6777,959,275,637
+Class weights,Logistic Regression,1076870,0.58,4.9,0.3431,0.9419,0.9742,0.5581,0.3736,0.4476,461,773,365
+Class weights,LightGBM,1076870,0.58,12.9,0.9492,0.9993,0.9757,0.9243,0.8606,0.8913,1062,172,87
+Random sample 20%,Logistic Regression,215374,0.6,0.8,0.4878,0.9312,0.2408,0.6405,0.436,0.5188,538,696,302
+Random sample 20%,LightGBM,215374,0.6,2.8,0.408,0.872,0.3332,0.5113,0.6605,0.5764,815,419,779
+Stratified sample 20%,Logistic Regression,215374,0.58,0.8,0.4861,0.9294,0.2851,0.682,0.4084,0.5109,504,730,235
+Stratified sample 20%,LightGBM,215374,0.58,2.9,0.3132,0.9047,0.5595,0.3836,0.6661,0.4868,822,412,1321
+Random undersampling 1:10,Logistic Regression,68992,9.09,0.2,0.4071,0.9388,0.7792,0.5275,0.4279,0.4725,528,706,473
+Random undersampling 1:10,LightGBM,68992,9.09,1.4,0.9512,0.9993,0.9104,0.903,0.8752,0.8889,1080,154,116
+SMOTE 1:10,Logistic Regression,1177657,9.09,5.0,0.4141,0.9375,0.8629,0.607,0.393,0.4771,485,749,314
+SMOTE 1:10,LightGBM,1177657,9.09,14.8,0.9284,0.9992,0.4719,0.9345,0.8671,0.8995,1070,164,75
+Cluster-based undersampling 1:10,Logistic Regression,68992,9.09,0.3,0.4052,0.9387,0.7823,0.517,0.4319,0.4706,533,701,498
+Cluster-based undersampling 1:10,LightGBM,68992,9.09,1.7,0.9499,0.9992,0.9273,0.928,0.8671,0.8965,1070,164,83
